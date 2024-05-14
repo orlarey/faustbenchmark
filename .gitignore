@@ -1,2 +1,8 @@
 /ocpp*dir
 /cpp*dir
+/lang*
+/mfirbinaries
+/tests2
+*_tmp.cpp
+*.cpp
+
