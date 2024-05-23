@@ -1,6 +1,7 @@
 /ocpp*dir
 /cpp*dir
 /lang*
+/runs*
 /mfirbinaries
 /tests2
 *_tmp.cpp
